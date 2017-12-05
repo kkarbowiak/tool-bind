@@ -1,10 +1,10 @@
+/*
+    Copyright 2016 Krzysztof Karbowiak
+*/
+
 #ifndef TOOL_MEMBER_FUNCTION_H__DDK
 #define TOOL_MEMBER_FUNCTION_H__DDK
 /**========================================================================== *\
- * File:        toolMemberFunction.h
- *
- * Author:      Krzysztof Karbowiak
- *
  * Description: Definition of a group of mem_fn classes that wrap member function
  *              pointers into function objects
 \*=========================================================================== */

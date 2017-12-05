@@ -1,10 +1,10 @@
+/*
+    Copyright 2016 Krzysztof Karbowiak
+*/
+
 #ifndef TOOL_BIND_H__DDK
 #define TOOL_BIND_H__DDK
 /**========================================================================== *\
- * File:        toolBind.h
- *
- * Author:      Krzysztof Karbowiak
- *
  * Description: Definition of a group of bind classes and functions for binding
  *              function calls together with arguments
 \*=========================================================================== */

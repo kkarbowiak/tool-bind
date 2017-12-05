@@ -1,10 +1,10 @@
+/*
+    Copyright 2016 Krzysztof Karbowiak
+*/
+
 #ifndef TOOL_FUNCTION_H__DDK
 #define TOOL_FUNCTION_H__DDK
 /**========================================================================== *\
- * File:        toolFunction.h
- *
- * Author:      Krzysztof Karbowiak
- *
  * Description: Definition of a group of fn classes that wrap function pointers
  *              into function objects
 \*=========================================================================== */

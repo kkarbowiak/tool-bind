@@ -1,10 +1,10 @@
+/*
+    Copyright 2016 Krzysztof Karbowiak
+*/
+
 #ifndef TOOL_REF_WRAPPER_H__DDK
 #define TOOL_REF_WRAPPER_H__DDK
 /**========================================================================== *\
- * File:        toolRefWrapper.h
- *
- * Author:      Krzysztof Karbowiak
- *
  * Description: Definition of wrapper class that wraps a reference
 \*=========================================================================== */
 
